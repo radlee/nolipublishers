@@ -1,6 +1,6 @@
 import React from 'react';
 import { ListGroup, ListGroupItem, Media } from 'reactstrap';
-import origin from '../../media/origin.jpg';
+import ws from '../../media/ws.png';
 import mp from '../../media/mp.jpg';
 import coding from '../../media/coding.jpg';
 
@@ -16,43 +16,48 @@ const TeamList = (props) => {
                 <ListGroupItem>
                     <Media>
                         <Media className="profile-pic" left>
-                            <Media className="Media" object src={coding} height="64px" alt="Siya's Profile Photo" />
+                            <Media className="Media" object src={ws} height="64px" alt="Siya's Profile Photo" />
                         </Media>
                         <Media body>
                             <Media heading>
-                                Mentoring
+                                Workshops
                             </Media>
-                            <h5>Web Development.</h5>
-                            Among the many great leaning platforms out there, we focus on 2 great leaning platforms we know makes you like programming; Sonic Pi and Codecademy.
-                            If you like music, you will like Sonic Pi and if you like telling a computer what to do for you then Codecademy will set you up straight to it.
+                            <h5>Business Lunch Workshops.</h5>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Assumenda omnis dolore amet harum delectus ut, incidunt expedita,
+                            cum modi deserunt porro saepe. Minima perferendis sapiente repellendus necessitatibus, eius enim? Aspernatur.
                         </Media>
                     </Media>
                 </ListGroupItem>
                 <ListGroupItem>
                     <Media>
                         <Media className="profile-pic" left>
-                            <Media className="Media" object src={mp} height="64px" alt="Themba's Profile Photo" />
+                            <Media className="Media" object src={ws} height="64px" alt="Themba's Profile Photo" />
                         </Media>
                         <Media body>
                             <Media heading>
-                                Cenceptual Photography
+                                Workshops
                             </Media>
-                            <h5>Desired place of photoshoot is no sweat. </h5>
-                            Friendly-Photographer. Aselmo Mafanga Photography
+                            <h5>Business Lunch Workshops.</h5>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Assumenda omnis dolore amet harum delectus ut, incidunt expedita,
+                            cum modi deserunt porro saepe. Minima perferendis sapiente repellendus necessitatibus, eius enim? Aspernatur.
                         </Media>
                     </Media>
                 </ListGroupItem>
                 <ListGroupItem>
                     <Media>
                         <Media className="profile-pic" left>
-                            <Media className="Media" object src={origin} height="64px" alt="Lolito's Profile Photo" />
+                            <Media className="Media" object src={ws} height="64px" alt="Lolito's Profile Photo" />
                         </Media>
                         <Media body>
                             <Media heading>
-                                Mobile Apps for the Community
+                                Workshops
                             </Media>
-                            <h5><em>"The Idea of using the Internet with Things is Fascinating."</em></h5>
-                            Android Based Applications. Transform the way we use Smartphones.
+                            <h5>Business Lunch Workshops.</h5>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Assumenda omnis dolore amet harum delectus ut, incidunt expedita,
+                            cum modi deserunt porro saepe. Minima perferendis sapiente repellendus necessitatibus, eius enim? Aspernatur.
                         </Media>
                     </Media>
                 </ListGroupItem>
