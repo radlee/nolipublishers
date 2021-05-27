@@ -1,26 +1,29 @@
 {
   "files": {
     "main.css": "/nolipublishers/static/css/main.9bd34a6b.chunk.css",
-    "main.js": "/nolipublishers/static/js/main.99c297f8.chunk.js",
-    "main.js.map": "/nolipublishers/static/js/main.99c297f8.chunk.js.map",
+    "main.js": "/nolipublishers/static/js/main.1d0658e9.chunk.js",
+    "main.js.map": "/nolipublishers/static/js/main.1d0658e9.chunk.js.map",
     "runtime-main.js": "/nolipublishers/static/js/runtime-main.d151dda6.js",
     "runtime-main.js.map": "/nolipublishers/static/js/runtime-main.d151dda6.js.map",
     "static/css/2.af3c1da9.chunk.css": "/nolipublishers/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.96092436.chunk.js": "/nolipublishers/static/js/2.96092436.chunk.js",
-    "static/js/2.96092436.chunk.js.map": "/nolipublishers/static/js/2.96092436.chunk.js.map",
+    "static/js/2.37c738a3.chunk.js": "/nolipublishers/static/js/2.37c738a3.chunk.js",
+    "static/js/2.37c738a3.chunk.js.map": "/nolipublishers/static/js/2.37c738a3.chunk.js.map",
     "index.html": "/nolipublishers/index.html",
-    "precache-manifest.7582f3f51a410b7ef73467805da1fb92.js": "/nolipublishers/precache-manifest.7582f3f51a410b7ef73467805da1fb92.js",
+    "precache-manifest.56604d0f0d31ac2d86f7960f10679f17.js": "/nolipublishers/precache-manifest.56604d0f0d31ac2d86f7960f10679f17.js",
     "service-worker.js": "/nolipublishers/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/nolipublishers/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.9bd34a6b.chunk.css.map": "/nolipublishers/static/css/main.9bd34a6b.chunk.css.map",
-    "static/js/2.96092436.chunk.js.LICENSE.txt": "/nolipublishers/static/js/2.96092436.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/nolipublishers/static/media/bg3.3b8e02cf.jpg"
+    "static/js/2.37c738a3.chunk.js.LICENSE.txt": "/nolipublishers/static/js/2.37c738a3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nolipublishers/static/media/bg3.3b8e02cf.jpg",
+    "static/media/coding.jpg": "/nolipublishers/static/media/coding.2efb6a6d.jpg",
+    "static/media/mp.jpg": "/nolipublishers/static/media/mp.9864abd0.jpg",
+    "static/media/ws.png": "/nolipublishers/static/media/ws.14227931.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d151dda6.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.96092436.chunk.js",
+    "static/js/2.37c738a3.chunk.js",
     "static/css/main.9bd34a6b.chunk.css",
-    "static/js/main.99c297f8.chunk.js"
+    "static/js/main.1d0658e9.chunk.js"
   ]
 }
