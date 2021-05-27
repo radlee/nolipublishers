@@ -11,7 +11,7 @@ const Navigation = (props) => {
         <div className="">
 
             <Navbar className="navigation" dark extended="md">
-                <NavbarBrand href="/">EXHORBI CONSULT & NOLI PUBLISHERS</NavbarBrand>
+                <NavbarBrand href="/">NOLI PUBLISHERS</NavbarBrand>
             </Navbar>
 
         </div>

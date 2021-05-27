@@ -20,7 +20,7 @@ export default class Footer extends Component {
 
                             <div className="twelve columns">
                                 <div class="widget">
-                                    <h5 className="footer-text">EC&NP</h5>
+                                    <h5 className="footer-text">NOLI PUBLISHERS</h5>
                                 </div>
                             </div>
 
