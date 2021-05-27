@@ -4,6 +4,9 @@
 
 .navigation {
   color: white !important;
+  font-family: "Arial Black";
+  font-size: 8px !important;
+  text-align: center !important;
 }
 
 .ig {
@@ -20,21 +23,20 @@
 }
 
 .dropdown-item {
-    background-color: #0075a3b0 !important;
-    color: white !important;
+  background-color: #0075a3b0 !important;
+  color: white !important;
 }
 
 .dropdown-menu {
   background-color: #68e90c2b !important;
 }
 
-
 .navbar {
-    background-color: #e41616a6 !important;
+  background-color: #00000091 !important;
 }
 
 .emphasis {
-  color:#e41616 !important;
+  color: #e41616 !important;
 }
 
 .navbar > .bg-dark {
@@ -47,15 +49,15 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
 }
 .list-group-item {
   position: relative;
   display: block;
   color: white;
-  padding: .75rem 1.25rem;
+  padding: 0.75rem 1.25rem;
   background-color: #2887a126 !important;
-  border: 1px solid rgba(0,0,0,.125);
+  border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
 .text {
@@ -93,8 +95,13 @@ a {
   color: white;
 }
 
+.image-sizing {
+  height: 300px;
+  width: auto;
+}
+
 .jumbotron {
-  background-image: url("./inno.jpg");
+  background-image: url("./bg-masthead1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: #ffffff;
@@ -131,7 +138,7 @@ a {
 }
 .notice-sponsor {
   /* background-image: url("./sponsor.jpg"); */
-  background-color: black !important; 
+  background-color: black !important;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -189,7 +196,7 @@ body {
 h1 {
   color: white !important;
 }
-.h1:hover{
+.h1:hover {
   text-decoration: underline !important;
 }
 .heading-horizon {
@@ -209,7 +216,6 @@ h1 {
 .list-g {
   border-top: 6px solid #d0092b !important;
 }
-
 
 .card-header {
   color: white;
@@ -259,7 +265,6 @@ h1 {
   }
 }
 
-
 @media only screen and (max-width: 600px) {
   .display-3 {
     letter-spacing: 4px !important;
@@ -268,5 +273,4 @@ h1 {
   .card {
     margin: 10px !important;
   }
-  
 }

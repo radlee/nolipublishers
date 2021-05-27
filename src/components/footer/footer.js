@@ -8,31 +8,31 @@ export default class Footer extends Component {
 
 
         return (
-           
-                <div className="container">
-                     <Container>
-      
-                        <Row>
-                            <Col sm="4"></Col>
-                            <Col sm="4">
 
-                                <hr />
+            <div className="container">
+                <Container>
 
-                                <div className="twelve columns">        
-                                    <div class="widget">
-                                        <h1 className="footer-text">ORIGIN2020</h1>
-                                    </div>
+                    <Row>
+                        <Col sm="4"></Col>
+                        <Col sm="4">
+
+                            <hr />
+
+                            <div className="twelve columns">
+                                <div class="widget">
+                                    <h5 className="footer-text">EC&NP</h5>
                                 </div>
+                            </div>
 
-                                <hr />
-                                
-                            </Col>
-                            <Col sm="4"></Col>
-                        </Row>
-                        
-                        </Container>
-                    </div>
-       
+                            <hr />
+
+                        </Col>
+                        <Col sm="4"></Col>
+                    </Row>
+
+                </Container>
+            </div>
+
         );
-      }
+    }
 };
