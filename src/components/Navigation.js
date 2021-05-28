@@ -26,19 +26,19 @@ const Navigation = (props) => {
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
                         <NavItem>
-                            <NavLink className="a" href="#about">About</NavLink>
+                            <NavLink href="#about">About</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink className="a" href="#objectives">Objectives</NavLink>
+                            <NavLink href="#gallery">Gallery</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink className="a" href="#services">Services</NavLink>
+                            <NavLink href="#services">Services</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink className="a" href="#orgs">Organizations</NavLink>
+                            <NavLink href="#team">Team</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink className="a" href="#contact">Contact</NavLink>
+                            <NavLink href="#contact">Contact</NavLink>
                         </NavItem>
                     </Nav>
                     <NavbarText>NOLI PUBLISHERS</NavbarText>

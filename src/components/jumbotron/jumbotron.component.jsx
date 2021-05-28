@@ -7,11 +7,10 @@ export default class JumbotronHead extends Component {
 
       <div>
         <Jumbotron className="jumbotron">
-          <p className="lead"><span className="green">Welcome</span> </p>
-          <hr className="my-2" />
           <h1 className="display-3">NOLI PUBLISHERS</h1>
           <hr className="my-2" />
-
+          <p className="lead"><span className="green">Together We Can Make a Change</span> </p>
+          <hr className="my-2" />
         </Jumbotron>
       </div>
     )

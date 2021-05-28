@@ -1,8 +1,7 @@
 import React from 'react';
 import { ListGroup, ListGroupItem, Media } from 'reactstrap';
 import ws from '../../media/ws.png';
-import mp from '../../media/mp.jpg';
-import coding from '../../media/coding.jpg';
+
 
 
 const TeamList = (props) => {
